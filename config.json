@@ -7,14 +7,14 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "mohammadayan55505@gmail.com",
-    "PASSWORD": "ayanfcal22",
+    "EMAIL": "mendrikadiavolana@gmail.com",
+    "PASSWORD": "tafita1212",
     "OTPKEY": "",
-    "BOTNAME": "botnickname",
-    "PREFIX": "Bot-prefix",
+    "BOTNAME": "madachat",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100086300725353",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
